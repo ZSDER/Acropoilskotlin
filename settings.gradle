@@ -1,0 +1,2 @@
+rootProject.name = "AcropoilskotlinProject"
+include ':app'

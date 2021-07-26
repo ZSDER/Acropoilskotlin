@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860721822464",
+    "project_id": "acropolisprojectuser",
+    "storage_bucket": "acropolisprojectuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860721822464:android:4dacbb197806d9192011e5",
+        "android_client_info": {
+          "package_name": "com.example.acropoilskotlinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860721822464-sngeu3d5c8sem4pmf4ss23fkf225o058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-w1LrRF-7twIUTlMpLksoLV8QQgzihN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860721822464-sngeu3d5c8sem4pmf4ss23fkf225o058.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
